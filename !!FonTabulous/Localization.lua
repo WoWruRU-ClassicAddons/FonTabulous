@@ -1,0 +1,28 @@
+if (GetLocale() == "ruRU") then
+	-- Russian localization by Lichery
+    FTAB_LOADED = "FonTabulous загружен! Введите /ftab или /fontabulous, чтобы изменить настройки шрифтов"
+    INVALID_FONT = "Выбран некорректный шрифт"
+	BUTTON = "Кнопка "
+    CURRENT_FONT = "|cffffffffТекущий шрифт: "
+	AUTO_RELOADUI = "Автоматическая перезагрузка интерфейса\nпосле изменения шрифта"
+	NORMAL_TEXT = "Обычный текст / Normal Text"
+	BOLD_TEXT = "Полужирный текст / Bold Text"
+	ITALIC_TEXT = "Курсивный текст / Italic Text"
+	LARGE_MSG_TEXT = "Большой текст сообщения / Large Message Text"
+	APPLY = "Применить"
+	PREVIEW = "Предпросмотр"
+	FONT_SCALE = "Размер шрифта (%)"
+else
+    FTAB_LOADED = "FonTabulous Loaded! Type /ftab or /fontabulous to change your font settings"
+    INVALID_FONT = "Invalid Font Selection"
+	BUTTON = "Button "
+    CURRENT_FONT = "|cffffffffCurrent Font: "
+	AUTO_RELOADUI = "Auto ReloadUI When Changing Fonts"
+	NORMAL_TEXT = "Normal Text"
+	BOLD_TEXT = "Bold Text"
+	ITALIC_TEXT = "Italic Text"
+	LARGE_MSG_TEXT = "Large Message Text"
+	APPLY = "Apply"
+	PREVIEW = "Preview"
+	FONT_SCALE = "Font Scale (%)"
+end

@@ -2,6 +2,8 @@
 ## Title: Fon|cff3333FFT|r|cff33CCFFabulous|r Oblique
 ## Version: 012
 ## Author: Devla & Pircio
-## Notes: Make WoW |cffFF6600FonTastic|r!! By:|cff00FF00 Devla & Pircio|r
+## Notes: Make WoW |cffFF6600FonTastic|r!! 
+## Notes-ruRU: Удобная смена шрифтов в игре
 ## SavedVariables: FTABDB
+
 FonTabulous.xml
