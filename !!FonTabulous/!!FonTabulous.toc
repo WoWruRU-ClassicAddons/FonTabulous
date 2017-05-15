@@ -1,9 +1,9 @@
 ## Interface: 11200
-## Title: Fon|cff3333FFT|r|cff33CCFFabulous|r Oblique
-## Version: 012
-## Author: Devla & Pircio
+## Title: Fon|cff3333FFT|r|cff33CCFFabulous|r
 ## Notes: Make WoW |cffFF6600FonTastic|r!! 
 ## Notes-ruRU: Удобная смена шрифтов в игре
+## Version: 3.2
+## Author: Devla, Pircio & JAcKyL69
 ## SavedVariables: FTABDB
 
 FonTabulous.xml
